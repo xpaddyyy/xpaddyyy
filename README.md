@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xpaddyyy
 - 👀 I’m interested in Computers, Gaming, Programming.  
 - 🌱 I’m currently learning Java, HTML, PHP, CSS and C#.
-- 💞️ I’m looking to collaborate on funny projects that interest me and also studies.
+- 💞️ I’m looking to collaborate on projects and studies.
 - 📫 How to reach me: Discord: xpaddyyy#9561, Steam: xpaddyyy, and on Fontys Campus.
 
 <!---
