@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xpaddyyy
 - 👀 I’m interested in Computers, Gaming, Programming.  
-- 🌱 I’m currently learning Java, HTML, PHP, CSS and C#.
+- 🌱 I’m currently learning Java, HTML, PHP, CSS and JS.
 - 💞️ I’m looking to collaborate on projects and studies.
   
 
